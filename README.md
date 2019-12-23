@@ -1,1 +1,1 @@
-# resume: https://spectralapps.github.io/resume/cv.html
+# resume: https://spectralapps.github.io/resume/index.html
